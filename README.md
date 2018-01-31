@@ -14,4 +14,4 @@ Currently, it is compatible with Endless Sky v0.9.8+.
   
 ## Dependencies
 
-Endless Sky requires a number of dependencies. On Mac, I recommend installing these with [Homebrew](https://brew.sh/). The CMake configuration should locate them auto-magically. On Windows, appropraite development libraries and SDKs can be downloaded and that location should be specified in `CMakeLists.txt`. Please see the [Endless Sky Wiki[(https://github.com/endless-sky/endless-sky/wiki/BuildInstructions) for more information on dependencies. 
+Endless Sky requires a number of dependencies. On Mac, I recommend installing these with [Homebrew](https://brew.sh/). The CMake configuration should locate them auto-magically. On Windows, appropraite development libraries and SDKs can be downloaded and that location should be specified in `CMakeLists.txt`. Please see the [Endless Sky Wiki](https://github.com/endless-sky/endless-sky/wiki/BuildInstructions) for more information on dependencies. 
