@@ -2,7 +2,7 @@
 
 This repository contains a CMake build system for Endless Sky (https://endless-sky.github.io/), an open source space trading and combat game.
 
-I set this up becuase I like to hack on Endless Sky and I am also a fan of the [CLion IDE](https://www.jetbrains.com/clion/), which uses CMake natively.
+I set this up becaue I like to hack on Endless Sky and I am also a fan of the [CLion IDE](https://www.jetbrains.com/clion/), which uses CMake natively.
 
 Currently, it is compatible with Endless Sky v0.9.8+.
 
